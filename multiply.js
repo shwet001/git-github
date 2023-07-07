@@ -2,4 +2,4 @@ function mul(a, b) {
     result = a * b;
     return result;
 }
-console.log(mul(2,3));
+console.log("The multiply is",mul(2,3));
